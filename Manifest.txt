@@ -3,7 +3,16 @@ Manifest.txt
 PostInstall.txt
 README.rdoc
 Rakefile
+bin/s3cmd
+bin/s3sync
 lib/s3sync.rb
+lib/s3sync/HTTPStreaming.rb
+lib/s3sync/S3.rb
+lib/s3sync/S3_s3sync_mod.rb
+lib/s3sync/s3config.rb
+lib/s3sync/S3encoder.rb
+lib/s3sync/s3try.rb
+lib/s3sync/thread_generator.rb
 script/console
 script/destroy
 script/generate
